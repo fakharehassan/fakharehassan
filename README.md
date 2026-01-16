@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I am a Software Engineering graduate<br>Data Scientist by profession.<br>I am currently working on a research paper on industrial time series. 
 
 

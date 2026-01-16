@@ -15,7 +15,7 @@ I am a Software Engineering graduate<br>Data Scientist by profession.<br>I am cu
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fakharehassan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
